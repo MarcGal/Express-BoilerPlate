@@ -1,6 +1,6 @@
-# MEAN Starter Kit
+# Express APP Starter Kit
 
-It’s a web APP basic configuration with MEAN stack.
+It’s a web APP basic configuration with Express, MongoDB, and Mongoose.
 
 ## Content
   - **Express** APP initial structure
